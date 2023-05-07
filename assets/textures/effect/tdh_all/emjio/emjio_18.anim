@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "emjio_18",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "63a6bd4c-70e4-41ca-935f-b55bf366e89d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "6592c6ec-76af-44b1-a822-6947aba88d5d"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e1792947-1236-4ea9-b12c-99901cbf6b61"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "5a13b734-d813-4594-ba03-64f317d6214a"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b8edc203-fc73-4a9f-9c45-d0206200f656"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

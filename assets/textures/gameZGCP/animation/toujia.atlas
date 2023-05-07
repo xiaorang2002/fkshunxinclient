@@ -1,0 +1,27 @@
+
+toujia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 232, 237
+  orig: 232, 237
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 441, 66
+  size: 154, 172
+  orig: 154, 172
+  offset: 0, 0
+  index: -1
+th
+  rotate: false
+  xy: 235, 11
+  size: 204, 227
+  orig: 204, 227
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+sxdt_cjfj.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cjfj_bg
+  rotate: false
+  xy: 741, 2
+  size: 264, 215
+  orig: 264, 215
+  offset: 0, 0
+  index: -1
+cjfj_g
+  rotate: false
+  xy: 370, 69
+  size: 193, 24
+  orig: 193, 24
+  offset: 0, 0
+  index: -1
+cjfj_mj
+  rotate: false
+  xy: 1210, 103
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+cjfj_qg
+  rotate: false
+  xy: 1007, 24
+  size: 201, 193
+  orig: 201, 193
+  offset: 0, 0
+  index: -1
+cjfj_sz
+  rotate: false
+  xy: 370, 95
+  size: 369, 122
+  orig: 369, 122
+  offset: 0, 0
+  index: -1
+cjfj_yz
+  rotate: false
+  xy: 2, 58
+  size: 366, 159
+  orig: 366, 159
+  offset: 0, 0
+  index: -1
+cjfj_zi
+  rotate: false
+  xy: 2, 5
+  size: 183, 51
+  orig: 183, 51
+  offset: 0, 0
+  index: -1

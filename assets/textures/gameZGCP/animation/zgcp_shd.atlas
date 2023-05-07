@@ -1,0 +1,27 @@
+
+zgcp_shd.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdjkcp
+  rotate: false
+  xy: 1, 79
+  size: 164, 32
+  orig: 164, 32
+  offset: 0, 0
+  index: -1
+jiantou
+  rotate: false
+  xy: 167, 17
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 1, 1
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d5c0e09a-91fa-40f2-a4ed-c0ae806b4495",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "hu_00012": {
+      "ver": "1.0.4",
+      "uuid": "aef05588-f9af-4300-a21b-8600b42ad4f0",
+      "rawTextureUuid": "d5c0e09a-91fa-40f2-a4ed-c0ae806b4495",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": -0.5,
+      "trimX": 195,
+      "trimY": 208,
+      "width": 132,
+      "height": 97,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

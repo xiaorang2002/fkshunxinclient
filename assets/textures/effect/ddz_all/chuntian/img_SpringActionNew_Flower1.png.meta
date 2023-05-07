@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "47083146-68f3-4266-8254-27a55ebc9ecc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 94,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "img_SpringActionNew_Flower1": {
+      "ver": "1.0.4",
+      "uuid": "c30bcb46-97a5-4835-86f5-00b2d9bce427",
+      "rawTextureUuid": "47083146-68f3-4266-8254-27a55ebc9ecc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 93,
+      "height": 82,
+      "rawWidth": 94,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

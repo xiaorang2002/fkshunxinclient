@@ -1,0 +1,19 @@
+{
+  "__type__": "cc.Material",
+  "_name": "zjh_avatar_material",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "2f1e2cb2-d523-44ae-bc76-d5153d94f134"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "round": 0.13,
+        "feather": 0.01
+      },
+      "defines": {}
+    }
+  }
+}

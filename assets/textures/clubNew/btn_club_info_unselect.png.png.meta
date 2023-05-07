@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a8e77587-2aad-4444-9b1e-a2f846f7e2bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 215,
+  "height": 77,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_club_info_unselect.png": {
+      "ver": "1.0.4",
+      "uuid": "1f7036d6-6df4-4ee4-9ac2-935f2d7e07ab",
+      "rawTextureUuid": "a8e77587-2aad-4444-9b1e-a2f846f7e2bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 77,
+      "rawWidth": 215,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

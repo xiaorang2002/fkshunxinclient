@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cfaa9971-f4c3-475c-a8a7-b5a82d43b869",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 41,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "img_SpringActionNew_Butterfly02": {
+      "ver": "1.0.4",
+      "uuid": "6ec68500-0967-4b4f-99f3-f4ba8bed8313",
+      "rawTextureUuid": "cfaa9971-f4c3-475c-a8a7-b5a82d43b869",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 41,
+      "height": 34,
+      "rawWidth": 41,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

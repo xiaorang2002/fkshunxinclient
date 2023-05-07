@@ -1,0 +1,41 @@
+
+sxdt_jrfj.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jrfj_bg
+  rotate: false
+  xy: 2, 25
+  size: 264, 215
+  orig: 264, 215
+  offset: 0, 0
+  index: -1
+jrfj_g
+  rotate: false
+  xy: 2, 2
+  size: 174, 21
+  orig: 174, 21
+  offset: 0, 0
+  index: -1
+jrfj_pk1
+  rotate: false
+  xy: 410, 106
+  size: 174, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+jrfj_pk2
+  rotate: false
+  xy: 268, 62
+  size: 140, 178
+  orig: 140, 178
+  offset: 0, 0
+  index: -1
+jrfj_zi
+  rotate: false
+  xy: 586, 190
+  size: 183, 50
+  orig: 183, 50
+  offset: 0, 0
+  index: -1

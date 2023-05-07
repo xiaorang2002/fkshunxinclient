@@ -1,0 +1,41 @@
+
+zjh_animation_choese.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjh_anim_pk_1
+  rotate: false
+  xy: 1, 15
+  size: 161, 107
+  orig: 161, 107
+  offset: 0, 0
+  index: -1
+zjh_anim_pk_2
+  rotate: false
+  xy: 1, 1
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+zjh_anim_pk_3
+  rotate: false
+  xy: 164, 86
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+zjh_anim_pk_4
+  rotate: false
+  xy: 164, 62
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+zjh_anim_pk_5
+  rotate: false
+  xy: 164, 110
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1

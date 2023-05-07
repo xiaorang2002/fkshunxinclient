@@ -1,0 +1,90 @@
+
+dzn_wl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 440, 242
+  size: 368, 132
+  orig: 368, 132
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 1
+  size: 372, 129
+  orig: 372, 129
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 787, 638
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+lost_bg2
+  rotate: false
+  xy: 1, 248
+  size: 437, 126
+  orig: 437, 126
+  offset: 0, 0
+  index: -1
+lost_bg3
+  rotate: false
+  xy: 659, 651
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+lost_txt
+  rotate: false
+  xy: 659, 749
+  size: 339, 131
+  orig: 339, 131
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 375, 92
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 659, 524
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+win_bg
+  rotate: false
+  xy: 1, 376
+  size: 656, 638
+  orig: 656, 638
+  offset: 0, 0
+  index: -1
+win_bg2
+  rotate: false
+  xy: 1, 132
+  size: 423, 114
+  orig: 423, 114
+  offset: 0, 0
+  index: -1
+win_bg3
+  rotate: false
+  xy: 659, 553
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+win_txt
+  rotate: false
+  xy: 659, 882
+  size: 339, 132
+  orig: 339, 132
+  offset: 0, 0
+  index: -1

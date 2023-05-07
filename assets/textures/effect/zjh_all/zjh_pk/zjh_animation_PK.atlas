@@ -1,0 +1,97 @@
+
+zjh_animation_PK.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 683, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 813, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 943, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1073, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1203, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1333, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1463, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1593, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1723, 99
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: -1
+pk_blue
+  rotate: false
+  xy: 1, 201
+  size: 680, 198
+  orig: 680, 198
+  offset: 0, 0
+  index: -1
+pk_red
+  rotate: false
+  xy: 1, 1
+  size: 680, 198
+  orig: 680, 198
+  offset: 0, 0
+  index: -1
+text_k
+  rotate: false
+  xy: 1853, 252
+  size: 162, 147
+  orig: 162, 147
+  offset: 0, 0
+  index: -1
+text_p
+  rotate: false
+  xy: 1853, 96
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jbfx.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dxx
+  rotate: false
+  xy: 103, 72
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+zfx
+  rotate: false
+  xy: 1, 1
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1

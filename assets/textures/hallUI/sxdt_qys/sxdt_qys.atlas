@@ -1,0 +1,69 @@
+
+sxdt_qys.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qys_bg
+  rotate: false
+  xy: 2, 219
+  size: 487, 291
+  orig: 487, 291
+  offset: 0, 0
+  index: -1
+qys_bz
+  rotate: false
+  xy: 491, 232
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+qys_g
+  rotate: false
+  xy: 245, 187
+  size: 246, 30
+  orig: 246, 30
+  offset: 0, 0
+  index: -1
+qys_gz
+  rotate: false
+  xy: 821, 450
+  size: 123, 60
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+qys_pk
+  rotate: false
+  xy: 2, 125
+  size: 241, 92
+  orig: 241, 92
+  offset: 0, 0
+  index: -1
+qys_sz
+  rotate: true
+  xy: 2, 2
+  size: 56, 60
+  orig: 59, 62
+  offset: 3, 0
+  index: -1
+qys_yz
+  rotate: false
+  xy: 491, 359
+  size: 182, 151
+  orig: 182, 151
+  offset: 0, 0
+  index: -1
+qys_zi
+  rotate: false
+  xy: 2, 60
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+ty_g
+  rotate: false
+  xy: 675, 368
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1

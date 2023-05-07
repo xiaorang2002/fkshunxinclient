@@ -1,0 +1,48 @@
+
+sxdt_ren.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren_mj
+  rotate: false
+  xy: 2, 2
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+ren_sheng
+  rotate: true
+  xy: 2, 125
+  size: 115, 347
+  orig: 115, 347
+  offset: 0, 0
+  index: -1
+ren_tou
+  rotate: false
+  xy: 351, 4
+  size: 145, 236
+  orig: 145, 236
+  offset: 0, 0
+  index: -1
+ren_tou_htf
+  rotate: false
+  xy: 223, 83
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+ren_tou_yan
+  rotate: false
+  xy: 132, 44
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+ren_yingzi
+  rotate: false
+  xy: 132, 83
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+zgcphbpct.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ba
+  rotate: false
+  xy: 250, 21
+  size: 95, 99
+  orig: 95, 99
+  offset: 0, 0
+  index: -1
+chi
+  rotate: false
+  xy: 126, 8
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1, 492
+  size: 540, 531
+  orig: 540, 531
+  offset: 0, 0
+  index: -1
+fs
+  rotate: false
+  xy: 1, 122
+  size: 370, 368
+  orig: 370, 368
+  offset: 0, 0
+  index: -1
+hd
+  rotate: false
+  xy: 543, 549
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 373, 135
+  size: 103, 116
+  orig: 103, 116
+  offset: 0, 0
+  index: -1
+men
+  rotate: false
+  xy: 543, 736
+  size: 394, 127
+  orig: 394, 127
+  offset: 0, 0
+  index: -1
+menx
+  rotate: false
+  xy: 543, 865
+  size: 424, 158
+  orig: 424, 158
+  offset: 0, 0
+  index: -1
+peng
+  rotate: false
+  xy: 373, 253
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1, 1
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+tianhu
+  rotate: false
+  xy: 730, 618
+  size: 183, 116
+  orig: 183, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 373, 362
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

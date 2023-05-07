@@ -1,0 +1,83 @@
+
+sxdt_ssc.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssc_bg
+  rotate: false
+  xy: 2, 201
+  size: 490, 292
+  orig: 490, 292
+  offset: 0, 0
+  index: -1
+ssc_bgg
+  rotate: false
+  xy: 494, 214
+  size: 246, 26
+  orig: 246, 26
+  offset: 0, 0
+  index: -1
+ssc_bzsjgg
+  rotate: false
+  xy: 494, 242
+  size: 447, 251
+  orig: 447, 251
+  offset: 0, 0
+  index: -1
+ssc_jiangbei
+  rotate: false
+  xy: 1241, 270
+  size: 271, 223
+  orig: 271, 223
+  offset: 0, 0
+  index: -1
+ssc_mj1
+  rotate: false
+  xy: 2, 2
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+ssc_mj2
+  rotate: false
+  xy: 1705, 459
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+ssc_pd
+  rotate: false
+  xy: 943, 242
+  size: 296, 251
+  orig: 296, 251
+  offset: 0, 0
+  index: -1
+ssc_puke
+  rotate: false
+  xy: 1514, 348
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+ssc_zi
+  rotate: false
+  xy: 1514, 425
+  size: 189, 68
+  orig: 189, 68
+  offset: 0, 0
+  index: -1
+ty_g
+  rotate: false
+  xy: 2, 57
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+ty_szg
+  rotate: false
+  xy: 148, 98
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1

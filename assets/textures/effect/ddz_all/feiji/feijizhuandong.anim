@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feiji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2b38434e-7e94-4f6d-b2d2-ad0d0e13c74b"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "fd254a44-0903-4c0e-8b83-3b902a020cbb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2fd9d82e-79d1-4f9c-9120-2d5777a736db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 356,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "img_GameAction_DouDiZu_Airplane_2": {
+      "ver": "1.0.4",
+      "uuid": "fd254a44-0903-4c0e-8b83-3b902a020cbb",
+      "rawTextureUuid": "2fd9d82e-79d1-4f9c-9120-2d5777a736db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 343,
+      "height": 195,
+      "rawWidth": 356,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

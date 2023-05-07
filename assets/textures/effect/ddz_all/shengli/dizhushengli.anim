@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dizhushengli",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "dizhushengli": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.016666666666666666,
+                "value": {
+                  "__uuid__": "3527e043-19b9-425e-9877-510a63a3262c"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "xuanzuan/zuoxuanzhuan": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "497dc7f6-745e-4837-ad25-1e6530c0d3a1"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "angle": [
+            {
+              "frame": 0.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "xuanzuan/youxuanzhuan": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "497dc7f6-745e-4837-ad25-1e6530c0d3a1"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "angle": [
+            {
+              "frame": 0.1,
+              "value": -10
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "dizhushengli/particle_texture": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "enabled": [
+              {
+                "frame": 0,
+                "value": false
+              },
+              {
+                "frame": 0.016666666666666666,
+                "value": true
+              },
+              {
+                "frame": 0.48333333333333334,
+                "value": false
+              }
+            ]
+          }
+        }
+      },
+      "xuanzuan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

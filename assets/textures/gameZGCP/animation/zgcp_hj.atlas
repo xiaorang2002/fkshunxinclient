@@ -1,0 +1,83 @@
+
+zgcp_hj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci
+  rotate: false
+  xy: 721, 299
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 505, 37
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+hg1
+  rotate: false
+  xy: 972, 440
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+hg2
+  rotate: false
+  xy: 940, 338
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 841, 408
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+lost_bg
+  rotate: false
+  xy: 1, 1
+  size: 502, 507
+  orig: 502, 507
+  offset: 0, 0
+  index: -1
+lost_bg2
+  rotate: false
+  xy: 505, 410
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+lost_txt
+  rotate: false
+  xy: 633, 48
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+lost_txt_j
+  rotate: false
+  xy: 815, 313
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+tianhu
+  rotate: false
+  xy: 505, 143
+  size: 183, 116
+  orig: 183, 116
+  offset: 0, 0
+  index: -1
+tianhuhu
+  rotate: false
+  xy: 505, 261
+  size: 214, 147
+  orig: 214, 147
+  offset: 0, 0
+  index: -1

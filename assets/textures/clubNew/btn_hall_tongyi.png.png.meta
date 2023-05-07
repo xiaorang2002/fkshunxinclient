@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4f28765a-a8f9-4002-a432-56830465d49c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 67,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_hall_tongyi.png": {
+      "ver": "1.0.4",
+      "uuid": "b3106994-318c-4411-be37-4006e3f5d113",
+      "rawTextureUuid": "4f28765a-a8f9-4002-a432-56830465d49c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 36,
+      "rawWidth": 67,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
